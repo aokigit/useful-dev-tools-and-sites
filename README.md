@@ -1,3 +1,5 @@
-#Useful dev tools and sites
+# Useful dev tools and sites
 
-###CSS Frameworks
+### CSS Frameworks 💣
+
+### jQuery Plugins
