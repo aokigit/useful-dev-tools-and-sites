@@ -48,5 +48,6 @@
 ### Misc
 
 * [Autoprefixer](https://autoprefixer.github.io/) - Add all vendor prefixes to your CSS and don't waste time on writing CSS for every browser
+* [brumm af](https://brumm.af/shadows) - Generate multi-layer CSS shadows
 * [The Front-End Checklist](https://frontendchecklist.io/) - Keep track of your frontend progress
 * [CSS Layout](https://csslayout.io/patterns) - Collection of CSS layouts
