@@ -53,9 +53,10 @@
 * [illlustrations](https://illlustrations.co/)
 * [Glaze](https://www.glazestock.com/)
 * [DrawKit](https://www.drawkit.io/)
-* [Isometric)(https://isometric.online/)
+* [Isometric](https://isometric.online/)
 * [Open Doodles](https://www.opendoodles.com/)
 * [manypixels](https://www.manypixels.co/gallery/)
+* [Blush](https://blush.design/)
 
 ### Images
 
