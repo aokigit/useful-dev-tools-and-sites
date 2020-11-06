@@ -36,6 +36,7 @@
 
 ### Icons
 
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Extremely small (file size) SVG company logos
 * [Material Icons](https://material.io/resources/icons/) 
 * [Font Awesome](https://fontawesome.com/) - 1,500+ Vector icons 
 * [Flaticon](https://www.flaticon.com/) 2,800,00+ Vector icons
