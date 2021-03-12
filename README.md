@@ -14,6 +14,10 @@
 * [Bulma](https://bulma.io/)
 * [Materialize](https://materializecss.com/) 
 
+### JavaScript
+
+* [Swiper](https://swiperjs.com/) - Touch slider
+
 ### jQuery Plugins
 
 * [slick](https://kenwheeler.github.io/slick/) - Responsive carousel with everything you basically need
