@@ -4,10 +4,10 @@
 
 Website | Description
 --------|------------
-* [CSS Grid Generator](https://cssgrid-generator.netlify.app/) | Generate a CSS grid
-* [Autoprefixer](https://autoprefixer.github.io/) | Add all vendor prefixes to your CSS and don't waste time on writing CSS for every browser
-* [brumm af](https://brumm.af/shadows) | Generate multi-layer CSS shadows
-* [CSS Layout](https://csslayout.io/patterns) | Collection of CSS layouts
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/) | Generate a CSS grid
+[Autoprefixer](https://autoprefixer.github.io/) | Add all vendor prefixes to your CSS and don't waste time on writing CSS for every browser
+[brumm af](https://brumm.af/shadows) | Generate multi-layer CSS shadows
+[CSS Layout](https://csslayout.io/patterns) | Collection of CSS layouts
 
 ### CSS Frameworks
 
