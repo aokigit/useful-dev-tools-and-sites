@@ -22,51 +22,51 @@ Website | Description
 
 Website | Description
 --------|------------
-[Swiper](https://swiperjs.com/) - Touch slider
+[Swiper](https://swiperjs.com/) | Touch slider
 
 ### jQuery Plugins
 
 Website | Description
 --------|------------
-[slick](https://kenwheeler.github.io/slick/) - Responsive carousel with everything you basically need
+[slick](https://kenwheeler.github.io/slick/) | Responsive carousel with everything you basically need
 
 ### Colors
 
 Website | Description
 --------|------------
-[FlatCol](https://flatcol.com/) - Color Palettes and multiple tools
-[Colorsinspo](https://colorsinspo.com/) - Color Palettes and multiple tools
-[Gradient Magic](https://gradientmagic.com/) - Gradients which mostly look like textures
-[uiGradients](https://uigradients.com/) - Gradients
-[Material Colors](https://www.materialui.co/colors) - Material color palette
+[FlatCol](https://flatcol.com/) | Color Palettes and multiple tools
+[Colorsinspo](https://colorsinspo.com/) | Color Palettes and multiple tools
+[Gradient Magic](https://gradientmagic.com/) | Gradients which mostly look like textures
+[uiGradients](https://uigradients.com/) | Gradients
+[Material Colors](https://www.materialui.co/colors) | Material color palette
 
 ### SVG
 
 Website | Description
 --------|------------
-[Hero Patterns](https://www.heropatterns.com/) - Repeatable SVG patterns to use as background
-[Get Waves](https://getwaves.io/) - Generate SVG waves
-[Blobmaker](https://www.blobmaker.app/) - Generate SVG blobs
-[Nano](https://vecta.io/nano) - Compress SVG files
-[Avataaars](https://getavataaars.com/) - Generate SVG avatars
+[Hero Patterns](https://www.heropatterns.com/) | Repeatable SVG patterns to use as background
+[Get Waves](https://getwaves.io/) | Generate SVG waves
+[Blobmaker](https://www.blobmaker.app/) | Generate SVG blobs
+[Nano](https://vecta.io/nano) | Compress SVG files
+[Avataaars](https://getavataaars.com/) | Generate SVG avatars
 
 ### Icons
 
 Website | Description
 --------|------------
-[SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Extremely small (file size) SVG company logos
+[SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | Extremely small (file size) SVG company logos
 [Material Icons](https://material.io/resources/icons/) 
-[Font Awesome](https://fontawesome.com/) - 1,500+ Vector icons 
-[Flaticon](https://www.flaticon.com/) 2,800,00+ Vector icons
-[Game-Icons](https://game-icons.net/) 3,800+ Vector icons for games
+[Font Awesome](https://fontawesome.com/) | 1,500+ Vector icons 
+[Flaticon](https://www.flaticon.com/) | 2,800,00+ Vector icons
+[Game-Icons](https://game-icons.net/) | 3,800+ Vector icons for games
 [icons8](https://icons8.com/)
 
 ### Stock Photos and Videos
 
 Website | Description
 --------|------------
-[Unsplash](https://unsplash.com/) Free Stock Photos
-[Mixkit](https://mixkit.co/)  - Free Stock videos
+[Unsplash](https://unsplash.com/) | Free Stock Photos
+[Mixkit](https://mixkit.co/)  | Free Stock videos
 
 ### Illustrations
 
@@ -85,16 +85,16 @@ Website | Description
 
 Website | Description
 --------|------------
-[Glitch Art Generator](https://glitchart.io/) - Generate glitch art images
+[Glitch Art Generator](https://glitchart.io/) | Generate glitch art images
 
 ### SEO
 
 Website | Description
 --------|------------
-[Metatags](https://metatags.io/) - Meta Tags generator for Google, Facebook, Twitter, Linkedin, Pinterest and Slack
+[Metatags](https://metatags.io/) | Meta Tags generator for Google, Facebook, Twitter, Linkedin, Pinterest and Slack
 
 ### Misc
 
 Website | Description
 --------|------------
-[The Front-End Checklist](https://frontendchecklist.io/) - Keep track of your frontend progress
+[The Front-End Checklist](https://frontendchecklist.io/) | Keep track of your frontend progress
