@@ -10,8 +10,6 @@
 
 ### CSS Frameworks
 
-Website | Description
---------|------------
 [Bootstrap](https://getbootstrap.com/)
 [TailwindCSS](https://tailwindcss.com/)
 [Bulma](https://bulma.io/)
@@ -19,20 +17,14 @@ Website | Description
 
 ### JavaScript
 
-Website | Description
---------|------------
-[Swiper](https://swiperjs.com/) | Touch slider
+[Swiper](https://swiperjs.com/) - Touch slider
 
 ### jQuery Plugins
 
-Website | Description
---------|------------
 [slick](https://kenwheeler.github.io/slick/) | Responsive carousel with everything you basically need
 
 ### Colors
 
-Website | Description
---------|------------
 [FlatCol](https://flatcol.com/) | Color Palettes and multiple tools
 [Colorsinspo](https://colorsinspo.com/) | Color Palettes and multiple tools
 [Gradient Magic](https://gradientmagic.com/) | Gradients which mostly look like textures
@@ -41,8 +33,6 @@ Website | Description
 
 ### SVG
 
-Website | Description
---------|------------
 [Hero Patterns](https://www.heropatterns.com/) | Repeatable SVG patterns to use as background
 [Get Waves](https://getwaves.io/) | Generate SVG waves
 [Blobmaker](https://www.blobmaker.app/) | Generate SVG blobs
@@ -51,8 +41,6 @@ Website | Description
 
 ### Icons
 
-Website | Description
---------|------------
 [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) | Extremely small (file size) SVG company logos
 [Material Icons](https://material.io/resources/icons/) 
 [Font Awesome](https://fontawesome.com/) | 1,500+ Vector icons 
@@ -62,15 +50,11 @@ Website | Description
 
 ### Stock Photos and Videos
 
-Website | Description
---------|------------
 [Unsplash](https://unsplash.com/) | Free Stock Photos
 [Mixkit](https://mixkit.co/)  | Free Stock videos
 
 ### Illustrations
 
-Website | Description
---------|------------
 [unDraw](https://undraw.co/illustrations)
 [illlustrations](https://illlustrations.co/)
 [Glaze](https://www.glazestock.com/)
@@ -82,18 +66,12 @@ Website | Description
 
 ### Images
 
-Website | Description
---------|------------
 [Glitch Art Generator](https://glitchart.io/) | Generate glitch art images
 
 ### SEO
 
-Website | Description
---------|------------
 [Metatags](https://metatags.io/) | Meta Tags generator for Google, Facebook, Twitter, Linkedin, Pinterest and Slack
 
 ### Misc
 
-Website | Description
---------|------------
 [The Front-End Checklist](https://frontendchecklist.io/) | Keep track of your frontend progress
